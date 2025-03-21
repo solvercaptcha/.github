@@ -30,10 +30,11 @@ Here are some useful links to get you started:
 
 ## Get in touch
 
-[<img src="https://github.com/solvecaptcha/" width="80" height="30" alt="Email"/>](mailto:support@solvecaptcha.com)  &nbsp;
+[<img src="https://github.com/user-attachments/assets/32e33e16-f9f6-4ab9-9c97-5381e4714cec" width="80" height="30" alt="Email"/>](mailto:support@solvecaptcha.com)  &nbsp;
 
 ## Join the team ??
 
 There are many impactful ways to contribute�writing code is just one of them. We're actively hiring across a range of technical and support roles. Whether you're an AI specialist, data scraper, backend/frontend developer, or passionate about user support and community ops, there's a place for you here. Explore open positions and help us build the future of automation, intelligence, and accessible tooling. Let�s solve hard problems together. ????
 
-[<img src="https://github.com/solvecaptcha/" width="80" height="30" alt="Email"/>](mailto:support@solvecaptcha.com)  &nbsp;
+[<img src="https://github.com/user-attachments/assets/32e33e16-f9f6-4ab9-9c97-5381e4714cec" width="80" height="30" alt="Email"/>](mailto:support@solvecaptcha.com)  &nbsp;
+
