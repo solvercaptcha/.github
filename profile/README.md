@@ -6,7 +6,7 @@
 
 CAPTCHAs act as anti-automation barriers, obstructing scripted workflows and introducing latency in CI/CD pipelines, data extraction, and integration tests. This solver provides a programmatic interface to bypass both visual and behavioral CAPTCHA challenges (e.g., reCAPTCHA v2/v3, hCAPTCHA) by simulating valid human interaction patterns via headless browser automation or API-level emulation, enabling uninterrupted bot operation in restricted environments.
 
-## Captcha solver API
+## 🧠 Captcha solver API
 
 To get up to speed quickly, start with [captcha solver API](https://solvecaptcha.com/captcha-solver-api) documentation.
 
@@ -29,11 +29,11 @@ Here are some useful links to get you started:
 - Fast & automated captcha solving service
 - Captcha solver extension and easy integration with tools like Puppeteer, Playwright, and Selenium
 
-## Get in touch
+## 🚀 Get in touch
 
 [<img src="https://github.com/user-attachments/assets/32e33e16-f9f6-4ab9-9c97-5381e4714cec" width="80" height="30" alt="Email"/>](mailto:info@solvecaptcha.com)  &nbsp;
 
-## Join the team
+## 🤝 Join the team
 
 There are many impactful ways to contribute-writing code is just one of them. We're actively hiring across a range of technical and support roles. Whether you're an AI specialist, data scraper, backend/frontend developer, or passionate about user support and community ops, there's a place for you here. Explore open positions and help us build the future of automation, intelligence, and accessible tooling. Let's solve hard problems together. 
 
