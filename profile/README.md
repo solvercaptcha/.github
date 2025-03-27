@@ -2,7 +2,7 @@
 
 # Captcha solver: Bypass reCAPTCHA, hCaptcha, GeeTest, Cloudflare and others
 
-Use the captcha solver to bypass any captcha.
+[Use the captcha solver](https://SolveCaptcha.com) to bypass any captcha.
 
 CAPTCHAs act as anti-automation barriers, obstructing scripted workflows and introducing latency in CI/CD pipelines, data extraction, and integration tests. This solver provides a programmatic interface to bypass both visual and behavioral CAPTCHA challenges (e.g., reCAPTCHA v2/v3, hCAPTCHA) by simulating valid human interaction patterns via headless browser automation or API-level emulation, enabling uninterrupted bot operation in restricted environments.
 
@@ -22,7 +22,7 @@ Here are some useful links to get you started:
 - [FunCaptcha (Arkose Labs)](https://solvecaptcha.com/captcha-solver/funcaptcha-solver-bypass)
 - Others
 
-## Features
+## 🛠️ Features
 
 - Pay only for results with 99.9% uptime
 - 24/7 support
