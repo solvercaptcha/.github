@@ -18,7 +18,8 @@ Here are some useful links to get you started:
 - [FunCaptcha (Arkose Labs captcha) solver](https://solvecaptcha.com/captcha-solver/funcaptcha-solver-bypass)
 - [Cloudflare captcha solver](https://solvecaptcha.com/captcha-solver/cloudflare-captcha-solver-bypass)
 - [Amazon captcha solver (AWS/WAF)](https://solvecaptcha.com/captcha-solver/amazon-captcha-solver-bypass)
-- GeeTest
+- [GeeTest](https://solvecaptcha.com/captcha-solver/slider-captcha-solver-bypass)
+- [FunCaptcha (Arkose Labs)](https://solvecaptcha.com/captcha-solver/funcaptcha-solver-bypass)
 - Others
 
 ## Features
