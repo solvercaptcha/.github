@@ -1,10 +1,10 @@
 ![solvecaptcha com](https://github.com/user-attachments/assets/d7780845-95f3-44a4-9586-5221dfe00b4a)
 
-# Captcha solver: Bypass reCAPTCHA, hCaptcha, GeeTest, Cloudflare and others
+# Captcha solver: Bypass reCAPTCHA, GeeTest, Cloudflare and others
 
 [Use the captcha solver](https://SolveCaptcha.com) to bypass any captcha.
 
-CAPTCHAs act as anti-automation barriers, obstructing scripted workflows and introducing latency in CI/CD pipelines, data extraction, and integration tests. This solver provides a programmatic interface to bypass both visual and behavioral CAPTCHA challenges (e.g., reCAPTCHA v2/v3, hCAPTCHA) by simulating valid human interaction patterns via headless browser automation or API-level emulation, enabling uninterrupted bot operation in restricted environments.
+CAPTCHAs act as anti-automation barriers, obstructing scripted workflows and introducing latency in CI/CD pipelines, data extraction, and integration tests. This solver provides a programmatic interface to bypass both visual and behavioral CAPTCHA challenges (e.g., reCAPTCHA v2/v3) by simulating valid human interaction patterns via headless browser automation or API-level emulation, enabling uninterrupted bot operation in restricted environments.
 
 ## 🧠 Captcha solver API
 
@@ -14,7 +14,6 @@ Here are some useful links to get you started:
 - [reCAPTCHA v2 solver](https://solvecaptcha.com/captcha-solver/recaptcha-v2-solver-bypass)
 - [reCAPTCHA v3 solver](https://solvecaptcha.com/captcha-solver/recaptcha-v3-solver-bypass)
 - [Image captcha solver](https://solvecaptcha.com/captcha-solver/image-captcha-solver-bypass)
-- [hCaptcha solver](https://solvecaptcha.com/captcha-solver/hcaptcha-solver-bypass)
 - [FunCaptcha (Arkose Labs captcha) solver](https://solvecaptcha.com/captcha-solver/funcaptcha-solver-bypass)
 - [Cloudflare captcha solver](https://solvecaptcha.com/captcha-solver/cloudflare-captcha-solver-bypass)
 - [Amazon captcha solver (AWS/WAF)](https://solvecaptcha.com/captcha-solver/amazon-captcha-solver-bypass)
